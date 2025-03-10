@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Script-Man-Hub/Ps99-Script/refs/heads/main/7a2d913b60138278.txt", true))()
